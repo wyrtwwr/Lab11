@@ -20,7 +20,8 @@
 
    
 ### Блок-схема
-<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://github.com/wyrtwwr/Lab11/blob/main/photo_2025-11-11_21-16-58.jpg" />
+![Uploading 11.jpg…]()
+
 
 
 ## 2. Реализация программы
