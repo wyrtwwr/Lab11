@@ -21,7 +21,7 @@
    
 ### Блок-схема
 
-<img src="https://github.com/wyrtwwr/Lab11/blob/main/lB11.jpg" width="750" height="900">
+<img src="https://github.com/wyrtwwr/Lab11/blob/main/lB11.jpg" width="650" height="900">
 
 
 
