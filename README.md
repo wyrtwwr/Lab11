@@ -20,8 +20,8 @@
 
    
 ### Блок-схема
-![Uploading lB11.jpg…]()
 
+<img src="https://github.com/wyrtwwr/Lab11/blob/main/lB11.jpg" width="981" height="266">
 
 
 
