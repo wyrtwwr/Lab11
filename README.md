@@ -20,7 +20,8 @@
 
    
 ### Блок-схема
-![Uploading 11.jpg…]()
+![Uploading lB11.jpg…]()
+
 
 
 
